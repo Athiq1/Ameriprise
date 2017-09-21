@@ -1,0 +1,107 @@
+[
+    [
+        "C:\\Users\\mohas\\geolocation1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505728433054,
+            "changeTime": 1505728433054,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mohas\\geolocation1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505728433055,
+            "changeTime": 1505728433055,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505891692426,
+            "changeTime": 1505891692426,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505728433055,
+            "changeTime": 1505728433055,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505891692428,
+            "changeTime": 1505891692428,
+            "contentHash": "f2b0623d016aad1d958bf3d8c7f271dad1f48aa1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default\\permissionsets\\test.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1\\force-app\\main\\default\\permissionsets\\test.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20375,
+            "modifiedTime": 1505891692429,
+            "changeTime": 1505891692429,
+            "contentHash": "e64e08cfb0cb836146af2d701b639fca6e378f96",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mohas\\geolocation1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mohas\\geolocation1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1505823243527,
+            "changeTime": 1505823243527,
+            "contentHash": "7cc7803265cae01f83213c45d4b0e53dd1da72c2",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
